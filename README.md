@@ -11,6 +11,8 @@
 🎨 I'm a **front-end developer** passionate about crafting user-focused, interactive, and scalable interfaces.  
 I enjoy working with modern front-end technologies and continuously exploring new tools in the ecosystem.
 
+🐹 -> [My Blog](https://reikama-414-site-v3.vercel.app)
+
 ---
 
 ### 💼 What I Do
@@ -44,6 +46,4 @@ REST API • GitHub Actions • Vercel • Netlify • Docker • Linux • Bash
 
 ---
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace" />
-</p>
+<img src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.75" />
