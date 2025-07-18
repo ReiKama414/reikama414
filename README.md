@@ -1,17 +1,27 @@
-## 🐾 Hi there, I'm ReiKama414
+<h3>
+  Hey, I'm ReiKama414
+</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
-    </td>
-  </tr>
-</table>
+<a href="https://reikama-414-site-v3.vercel.app">
+  <div align="right" >
+    <img align="right" src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.75" alt="ReiKama414" />
+  </div>
+</a>
 
-🎨 I'm a **front-end developer** passionate about crafting user-focused, interactive, and scalable interfaces.  
-I enjoy working with modern front-end technologies and continuously exploring new tools in the ecosystem.
+<!-- ======================================= -->
 
-🐹 -> [My Blog](https://reikama-414-site-v3.vercel.app)
+- 🐹 My ~~Toy~~ [Blog](https://reikama-414-site-v3.vercel.app)
+- 🎨 Front-end developer focused on interactive, scalable, and user-centered UI.
+- 🧪 Always exploring modern front-end tools and technologies.
+- 🌱 Currently learning more about creative UI animations.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReiKama414&theme=moonlight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReiKama414&theme=moonlight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReiKama414&theme=moonlight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReiKama414&theme=moonlight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReiKama414&theme=moonlight&utcOffset=8)
+
+<!-- ======================================= -->
 
 ---
 
@@ -25,6 +35,8 @@ I enjoy working with modern front-end technologies and continuously exploring ne
 ---
 
 ### 🧰 Tech Stack Highlights
+
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" />
 
 **Frontend**  
 JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • React • Vue • Nuxt • Next.js • Vite • TailwindCSS  
@@ -43,7 +55,3 @@ MongoDB • PostgreSQL • MySQL • SQLite • Prisma • Firebase • Supabase
 
 **Others / Full Stack**  
 REST API • GitHub Actions • Vercel • Netlify • Docker • Linux • Bash • Git
-
----
-
-<img src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.75" />
