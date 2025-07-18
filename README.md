@@ -11,7 +11,7 @@
 <!-- ======================================= -->
 
 - 🐹 My ~~Toy~~ [Blog](https://reikama-414-site-v3.vercel.app)
-- 🎨 Front-end developer focused on interactive, scalable, and user-centered UI.
+- 🎨 **Front-end developer** focused on interactive, scalable, and user-centered UI.
 - 🧪 Always exploring modern front-end tools and technologies.
 - 🌱 Currently learning more about creative UI animations.
 
