@@ -4,7 +4,7 @@
 
 <a href="https://reikama-414-site-v3.vercel.app">
   <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.75" alt="ReiKama414" />
+    <img align="right" src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.5" alt="ReiKama414" />
   </div>
 </a>
 
