@@ -14,6 +14,7 @@
 - 🎨 **Front-end developer** focused on interactive, scalable, and user-centered UI.
 - 🧪 Always exploring modern front-end tools and technologies.
 - 🌱 Currently learning more about creative UI animations.
+- ☕ If my projects helped you, feel free to [buy me a coffee](https://buymeacoffee.com/reikama414) – helps me write more code before AI replaces me
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReiKama414&theme=moonlight)
 
