@@ -1,62 +1,229 @@
-<h3>
-  Hey, I'm ReiKama414
+<h3 align="left">
+  Hey, I'm ReiKama414 👋
 </h3>
 
 <a href="https://reikama414.vercel.app">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.5" alt="ReiKama414" />
+  <div align="right">
+    <img
+      align="right"
+      src="https://count.getloli.com/get/@reikama414?theme=love-and-deepspace&scale=0.5"
+      alt="ReiKama414 Visitor Counter"
+    />
   </div>
 </a>
 
-<!-- ======================================= -->
+Frontend / Full-stack Engineer focused on building interactive, scalable, and user-centered experiences.
 
-- 🐹 My ~~Toy~~ [Blog](https://reikama-414-site-v3.vercel.app)
-- 🎨 **Front-end developer** focused on interactive, scalable, and user-centered UI.
-- 🧪 Always exploring modern front-end tools and technologies.
-- 🌱 Currently learning more about creative UI animations.
-- ☕ If my projects helped you, feel free to [buy me a coffee](https://buymeacoffee.com/reikama414) – helps me write more code before AI replaces me
+* 🐹 My ~~Toy~~ [Blog](https://reikama-414-site-v3.vercel.app)
+* 🎨 Building modern web applications with a focus on UI/UX
+* 🧪 Exploring new front-end tools, architecture, and creative technologies
+* 🌱 Currently learning more about animation and micro-interactions
+* ☕ If my projects helped you, feel free to [buy me a coffee](https://buymeacoffee.com/reikama414)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReiKama414&theme=moonlight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReiKama414&theme=moonlight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReiKama414&theme=moonlight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReiKama414&theme=moonlight) &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReiKama414&theme=moonlight&utcOffset=8)
-
-<!-- ======================================= -->
+<br clear="both" />
 
 ---
 
-### 💼 What I Do
-
-- Build fast, responsive web apps with React and TypeScript  
-- Focus on clean architecture, performance, and maintainability  
-- Work closely with design systems and UI/UX standards  
-- Experiment with animation, micro-interactions, and creative UI concepts  
-
----
-
-### 🧰 Tech Stack Highlights
-
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" />
-
-**Frontend**  
-JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • React • Vue • Nuxt • Next.js • Vite • TailwindCSS  
-SCSS/SASS • CSS • Zustand • Redux Toolkit • Web Animations API • Framer Motion • GSAP • Chart.js  
-Webpack • Rollup • Babel • ESLint • Prettier • PostCSS • PWA • RWD • Axios • React Hook Form • React Router
-
-**Mobile / App Development**  
-(basic) React Native • Expo • Flutter  
-Swift • Android（Java）
-
-**Backend / Scripting**  
-Node.js • Express • Python (Flask, FastAPI) • ASP.NET Core (C#)
-
-**Database / Data**  
-MongoDB • PostgreSQL • MySQL • SQLite • Prisma • Firebase • Supabase
-
-**Others / Full Stack**  
-REST API • GitHub Actions • Vercel • Netlify • Docker • Linux • Bash • Git
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=reikama414&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44053563%3Fu%3D964794d08d6707d0c67214c0d0fae4ffaa893c99%26v%3D4&style=terminal"
+    alt="ReiKama414 GitHub Profile"
+  />
+</p>
 
 ---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://emberjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## 💼 What I Do
+
+* Build fast and responsive web applications with **React** and **TypeScript**
+* Design maintainable and reusable front-end architecture
+* Work with full-stack applications, APIs, databases, and backend services
+* Focus on performance, accessibility, security, and maintainability
+* Build interfaces based on modern UI/UX and design-system principles
+* Experiment with animations, micro-interactions, and creative UI concepts
+* Turn ideas and prototypes into production-ready applications
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/heatmap?username=reikama414&theme=github-dark"
+    alt="ReiKama414 Contribution Activity"
+  />
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=reikama414&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44053563%3Fu%3D964794d08d6707d0c67214c0d0fae4ffaa893c99%26v%3D4"
+    alt="ReiKama414 GitHub Stats"
+  />
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReiKama414&theme=moonlight"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReiKama414&theme=moonlight"
+    alt="Repos Per Language"
+  />
+  &nbsp;
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReiKama414&theme=moonlight"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReiKama414&theme=moonlight"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReiKama414&theme=moonlight&utcOffset=8"
+    alt="Productive Time"
+  />
+</p>
+
+---
+
+## 🚀 Featured Work
+
+### [Book Buddy](https://github.com/ReiKama414/book-buddy)
+
+Featured public project.
+
+### [Cat Dreams Home](https://github.com/ReiKama414/cat-dreams-home)
+
+Featured public project.
+
+### [Geo Explorer](https://github.com/ReiKama414/geo-explorer)
+
+Featured public project.
+
+### [Globe](https://github.com/ReiKama414/Globe)
+
+Featured public project.
+
+### [Cozy Mart](https://github.com/ReiKama414/cozy-mart)
+
+Cozy E-commerce Platform.
+
+### [Freedom Countdown](https://github.com/ReiKama414/FreedomCountdown)
+
+Featured public project.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,nuxt,vite,tailwind,sass" alt="Frontend Skills" />
+</p>
+
+`JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `React` · `Next.js` · `Vue` · `Nuxt` · `Vite` · `TailwindCSS` · `SCSS`
+
+**Libraries & Architecture**
+
+`Zustand` · `Redux Toolkit` · `React Hook Form` · `React Router` · `Axios`
+
+**Animation & Visualization**
+
+`Framer Motion` · `GSAP` · `Web Animations API` · `Chart.js`
+
+**Tooling**
+
+`Webpack` · `Rollup` · `Babel` · `ESLint` · `Prettier` · `PostCSS` · `PWA` · `RWD`
+
+---
+
+### Backend & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,dotnet" alt="Backend Skills" />
+</p>
+
+`Node.js` · `Express` · `Python` · `Flask` · `FastAPI` · `ASP.NET Core / C#`
+
+---
+
+### Database & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,firebase,supabase" alt="Database Skills" />
+</p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Prisma` · `Firebase` · `Supabase`
+
+---
+
+### Mobile / App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,swift,androidstudio" alt="Mobile Development Skills" />
+</p>
+
+`React Native` · `Expo` · `Flutter` · `Swift` · `Android / Java`
+
+---
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vercel,netlify,figma" alt="Tools and DevOps" />
+</p>
+
+`Git` · `GitHub Actions` · `Docker` · `Linux` · `Bash` · `Vercel` · `Netlify` · `Figma`
+
+---
+
+## 🖥️ Platform Toolkit
+
+<p><code>reikama414@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/stack?username=reikama414&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44053563%3Fu%3D964794d08d6707d0c67214c0d0fae4ffaa893c99%26v%3D4&style=terminal"
+    alt="ReiKama414 Stack"
+  />
+</p>
+
+---
+
+## 🌐 Keep in Touch
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/social?username=reikama414&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44053563%3Fu%3D964794d08d6707d0c67214c0d0fae4ffaa893c99%26v%3D4"
+    alt="ReiKama414 Social"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ReiKama414">GitHub</a>
+  ·
+  <a href="https://reikama414.vercel.app">Portfolio</a>
+  ·
+  <a href="https://reikama-414-site-v3.vercel.app">Blog</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>
+    ReiKama414 · Building useful things and learning in public.
+  </sub>
+</p>
