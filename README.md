@@ -57,14 +57,11 @@ Frontend / Full-stack Engineer focused on building interactive, scalable, and us
 
 ## 🚀 Featured Work
 
-| Project | |
-| --- | --- |
-| [Book Buddy](https://github.com/ReiKama414/book-buddy) | Featured public project |
-| [Cat Dreams Home](https://github.com/ReiKama414/cat-dreams-home) | Featured public project |
-| [Geo Explorer](https://github.com/ReiKama414/geo-explorer) | Featured public project |
-| [Globe](https://github.com/ReiKama414/Globe) | Featured public project |
-| [Cozy Mart](https://github.com/ReiKama414/cozy-mart) | Cozy e-commerce platform |
-| [Freedom Countdown](https://github.com/ReiKama414/FreedomCountdown) | Featured public project |
+<p align="center">
+  <a href="https://reikama414.vercel.app/works">
+    <img src="https://reikama414.vercel.app/api/card/featured?theme=nebula&lang=en" alt="ReiKama414 Featured Work" width="100%" />
+  </a>
+</p>
 
 ---
 
