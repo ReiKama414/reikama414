@@ -70,29 +70,9 @@ Frontend / Full-stack Engineer focused on building interactive, scalable, and us
 
 ## 🧰 Tech Stack
 
-**Frontend**
-`JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `React` · `Next.js` · `Vue` · `Nuxt` · `Vite` · `TailwindCSS` · `SCSS`
-
-**Libraries & Architecture**
-`Zustand` · `Redux Toolkit` · `React Hook Form` · `React Router` · `Axios`
-
-**Animation & Visualization**
-`Framer Motion` · `GSAP` · `Web Animations API` · `Chart.js`
-
-**Tooling**
-`Webpack` · `Rollup` · `Babel` · `ESLint` · `Prettier` · `PostCSS` · `PWA` · `RWD`
-
-**Backend & Scripting**
-`Node.js` · `Express` · `Python` · `Flask` · `FastAPI` · `ASP.NET Core / C#`
-
-**Database & Data**
-`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Prisma` · `Firebase` · `Supabase`
-
-**Mobile / App Development**
-`React Native` · `Expo` · `Flutter` · `Swift` · `Android / Java`
-
-**Tools & DevOps**
-`Git` · `GitHub Actions` · `Docker` · `Linux` · `Bash` · `Vercel` · `Netlify` · `Figma`
+<p align="center">
+  <img src="https://reikama414.vercel.app/api/card/stack?theme=nebula&lang=en" alt="ReiKama414 Tech Stack" width="100%" />
+</p>
 
 ---
 
